@@ -1,4 +1,4 @@
-package ShivaGaur_2215001653_TBPPP;
+
 import java.util.*;
 public class Factorial {
     public static void main(String[] args) {

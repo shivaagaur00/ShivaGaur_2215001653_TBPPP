@@ -1,4 +1,3 @@
-package ShivaGaur_2215001653_TBPPP;
 
 public class code5 {
         public double findMedianSortedArrays(int[] nums1, int[] nums2) {
